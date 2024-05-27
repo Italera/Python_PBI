@@ -205,8 +205,9 @@ def nova_tela():
 ## Rotas e Callbacks
 
 ###Callbacks
+
 - carregar_pagina: Carrega a página correta com base no pathname.
 - exibir_navbar: Atualiza a barra de navegação com links apropriados.
 - criar_conta: Gerencia a criação de novas contas de usuário.
 - login_usuario: Gerencia o processo de login.
- -atualizar_grafico: Atualiza o gráfico com base na seleção do dropdown.
+- atualizar_grafico: Atualiza o gráfico com base na seleção do dropdown.

@@ -10,18 +10,14 @@ Este projeto demonstra uma aplicação web construída com Dash e Flask, que inc
 
 ## Instalação
 
-1 Clone o repositório:
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
-
-2 Crie um ambiente virtual e ative-o:
+1 Crie um ambiente virtual e ative-o:
 python -m venv venv
 source venv/bin/activate  # No Windows, use `venv\Scripts\activate`
 
-3 Instale as dependências:
+2 Instale as dependências:
 pip install -r requirements.txt
 
-4 Execute a aplicação:
+3 Execute a aplicação:
 python run.py
 
 ## Arquivos

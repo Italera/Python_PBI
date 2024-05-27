@@ -204,7 +204,7 @@ def nova_tela():
 
 ## Rotas e Callbacks
 
-###Callbacks
+### Callbacks
 
 - carregar_pagina: Carrega a página correta com base no pathname.
 - exibir_navbar: Atualiza a barra de navegação com links apropriados.
